@@ -8,12 +8,19 @@ Menemen is a traditional Turkish breakfast dish made with eggs, fresh tomatoes, 
 **Provided by:** Kazim Gueralp Guelec
 
 ## Stats
-- Cooking Time: ...
-- Servings: ...
+- Preparation Time: 10 minutes
+- Cooking Time: 15 minutes
+- Servings: 2
 
 ## Ingredients
-- 1 kg Butter 
-- 10 g Salt
+- 3 eggs
+- 3 medium tomatoes
+- 2 green peppers (preferably Turkish sivri peppers)
+- 50 g butter
+- 1 medium onion (optional)
+- Salt to taste
+- Black pepper (optional)
+- Red pepper flakes (optional)
 
 ## Instructions
 - Step 1
