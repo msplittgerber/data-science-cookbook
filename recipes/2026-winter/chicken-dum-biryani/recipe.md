@@ -2,7 +2,7 @@
 
 Chicken Dum Biryani is made with spicy marinated chicken, fragrant basmati rice, fried onions and fresh herbs. It is special to me because it is full of flavour and reminds me of enjoying a delicious meal with family.
 
-![A super cool image of a Chicken Dum Biriyani]()
+![A plate of Chicken Dum Biryani](Chicken Dum Biryani.jpeg)
 
 **Provided by:** Lalitha Gadi.
 
