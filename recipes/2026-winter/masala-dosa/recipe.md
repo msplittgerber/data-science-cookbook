@@ -46,3 +46,9 @@
 
 - Use a well-heated pan for crispy dosas.
 - Serve immediately with coconut chutney and sambar.
+
+## Additional Tips
+
+- Use a hot non-stick or cast iron pan.
+- Spread the batter quickly in a circular motion.
+- Grease the pan lightly before each dosa.
