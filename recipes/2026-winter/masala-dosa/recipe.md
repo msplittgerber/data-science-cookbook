@@ -41,3 +41,8 @@
 - Use a well-seasoned cast-iron tawa for crispy dosas.
 - Spread the batter quickly while the pan is hot.
 - Serve immediately for maximum crispiness.
+
+## Tips
+
+- Use a well-heated pan for crispy dosas.
+- Serve immediately with coconut chutney and sambar.
