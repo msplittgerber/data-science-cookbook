@@ -55,6 +55,7 @@ Chicken Dum Biryani is made with spicy marinated chicken, fragrant basmati rice,
 10. Gently mix and serve hot with Raita, gravy or salad.
 
 ## Tips
+- Let the biryani rest for 10 minutes after cooking so the flavours settle before serving.
 - Marinating the chicken for longer helps the spices soak in.
 - Fried onions give the biryani a nice taste and aroma.
 - Keep the heat low during dum cooking so the rice and chicken do not burn at the bottom.
